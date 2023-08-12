@@ -22,13 +22,13 @@ const quizData = [{
     d: "none of the above",
     correct: "b",
 },
-{
-    question: "date?",
-    a: "Yes",
-    b: "Hell yeah",
-    c: "Ha kobe jabi bol?",
-    d: " ha tomar sathe jabo na toh kar sathe jabo?",
-    correct: "d",
+{    question: "What year was JavaScript launched?",
+    a: "1996",
+    b: "1995",
+    c: "1994",
+    d: "none of the above",
+    correct: "b",
+    
 }
 ];
 let index = 0;
